@@ -1,7 +1,8 @@
-### Hi there 👋, my name is Erickson
+### Hi there 👋, my name is Erickson. I am a Flutter developer 🦋
 
-- 🌱 I’m currently learning flutter 
-- 🔭 I’m currently working on nexus app
+- 🌱 I’m currently learning flutter and javascript
+- 🔭 I’m currently working on an app called Nexus
+  
 <!--
 **sonyerg/sonyerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
