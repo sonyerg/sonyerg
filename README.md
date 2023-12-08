@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Erickson. I am a junior Frontend developer.
+### Hello everyone! 🎉 I'm Erickson, an enthusiastic and aspiring junior frontend developer, eager to dive into the thrilling and dynamic realm of programming! 🚀🌐
 
 - 🌱 I’m currently learning flutter and javascript. In the future, I also want to learn Backend development.
 - 🔭 I’m currently working on an app called Nexus
