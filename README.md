@@ -1,6 +1,6 @@
 ### Hello everyone! 🎉 I'm Erickson, an enthusiastic and aspiring junior frontend developer, eager to dive into the thrilling and dynamic realm of programming! 🚀🌐
 
-- 🌱 I’m currently learning flutter and javascript. In the future, I also want to learn Backend development.
+- 🌱 I’m currently learning flutter, html, css, and javascript. In the future, I also want to learn Backend development.
 - 🔭 I’m currently working on an app called Nexus
 - 📫 How to reach me: linkedin.com/in/ericksonguinto/
   
