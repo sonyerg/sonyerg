@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning flutter, html, css, and javascript.
 - 🔭 I’m currently working on a flutter app called Nexus
-- ⚡ Fun fact: I graduated Bachelor of Science in Mechanical Engineering 👨‍🏭
+- ⚡ Fun fact: I graduated with a Bachelor of Science degree in Mechanical Engineering 👨‍🏭
 - 📫 How to reach me: linkedin.com/in/ericksonguinto/
   
 <!--
