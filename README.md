@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning flutter, html, css, and javascript.
 - 🔭 I’m currently working on a flutter app called Nexus
-- ⚡ Fun fact: I graduated with a Bachelor of Science degree in Mechanical Engineering 👨‍🏭
-- 📫 Reach me @ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksonguinto/)
+- 📫 Reach me @ [LinkedIn/ericksonguinto](https://www.linkedin.com/in/ericksonguinto/)
+<!--  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksonguinto/) -->
 <!--
 **sonyerg/sonyerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
