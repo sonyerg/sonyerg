@@ -1,8 +1,8 @@
 ### Hello there! 🎉 I'm Erickson, an aspiring frontend developer, eager to dive into the thrilling and dynamic realm of programming! 🚀🌐
-
-- 🌱 I’m currently learning flutter, html, css, and javascript.
-- 🔭 I’m currently working on a flutter app called Nexus
-- 📫 Reach me @ [LinkedIn/ericksonguinto](https://www.linkedin.com/in/ericksonguinto/)
+I develop mobile apps using Flutter and websites using NextJS
+- ⚡My tech stack: Flutter, Next.Js, Tailwind CSS
+<!-- 🔭 I’m currently working on a flutter app called Nexus -->
+- 📫 Reach me @ [LinkedIn/ericksonguinto](https://www.linkedin.com/in/ericksonguinto/) or on my personal website [ericksonguinto.](https://ericksonguinto.vercel.app/)
 <!--  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksonguinto/) -->
 
 <!--
