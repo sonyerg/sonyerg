@@ -2,7 +2,7 @@
 I develop mobile apps using Flutter and websites using NextJS
 - ⚡My tech stack: Flutter, Next.Js, Tailwind CSS
 <!-- 🔭 I’m currently working on a flutter app called Nexus -->
-- 📫 Reach me @ [LinkedIn/ericksonguinto](https://www.linkedin.com/in/ericksonguinto/) or on my personal website [ericksonguinto.](https://ericksonguinto.vercel.app/)
+- 📫 Reach me @ [LinkedIn/ericksonguinto](https://www.linkedin.com/in/ericksonguinto/) or [ericksonguinto.com](https://ericksonguinto.vercel.app/)
 <!--  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksonguinto/) -->
 
 <!--
