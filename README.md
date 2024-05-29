@@ -1,6 +1,6 @@
-### Hello there! 🎉 I'm Erickson, an aspiring front-end developer, eager to dive into the thrilling and dynamic realm of programming! 🚀🌐
-I develop mobile apps using Flutter and websites using NextJS!
-- ⚡My tech stack: React(Vite.js, Next.js), Tailwind CSS, Flutter.
+### Hello! 🎉 I'm Erickson, an aspiring front-end developer, eager to dive into the thrilling and dynamic realm of programming! 🚀🌐
+
+- ⚡My tech stack: React, Tailwind CSS, Flutter.
 - 🔭 I’m currently looking for a job as a Junior Front-end Developer.
 - 📫 Reach me @ [LinkedIn/ericksonguinto](https://www.linkedin.com/in/ericksonguinto/) or [ericksonguinto.com](https://ericksonguinto.vercel.app/)
 
