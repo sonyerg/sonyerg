@@ -1,8 +1,8 @@
 ### Hello! 🎉 I'm Erickson, an aspiring software developer, eager to dive into the thrilling and dynamic realm of programming! 🚀🌐
 
-- ⚡My tech stack: React, NextJS, Tailwind CSS, NodeJS, MongoDB.
-- 📖 I’m currently learning NestJS.
-- 🔭 I’m currently looking for a job as a React/Next.JS Developer.
+- ⚡My tech stack: React, NextJS, Tailwind CSS, NodeJS, MongoDB, Flutter.
+- 📖 I’m currently learning NestJS, ThreeJS, Express.
+- 🔭 I’m currently looking for a job as a React/Next JS/Fullstack Junior-Intermediate Developer.
 - 📫 Reach me @ [LinkedIn/ericksonguinto](https://www.linkedin.com/in/ericksonguinto/) or [ericksonguinto.com](https://ericksonguinto.vercel.app/)
 
 <!--  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksonguinto/) -->
