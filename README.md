@@ -2,7 +2,7 @@
 
 - ⚡My tech stack: React, NextJS, Tailwind CSS, NodeJS, MongoDB, Flutter.
 - 📖 I’m currently learning NestJS, ThreeJS, Express.
-- 🔭 I’m currently looking for a job as a React/Next JS/Full Stack Junior-Intermediate Developer.
+- 🔭 I’m currently looking for a job as a React JS/Next JS/ Developer or Full Stack Junior Developer.
 - 📫 Reach me @ [LinkedIn/ericksonguinto](https://www.linkedin.com/in/ericksonguinto/) or [ericksonguinto.com](https://ericksonguinto.vercel.app/)
 
 <!--  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksonguinto/) -->
